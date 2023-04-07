@@ -1,0 +1,33 @@
+body {
+		margin: auto;
+		width: 900px;
+		background-size: 900px;
+		background-position: center;
+		background-color: yellowgreen;
+		}
+
+div.sticky {
+			width: 100%;
+			height: 60px;
+			top: 0px;
+			padding: 5px;
+			position: sticky;
+			background-color: seagreen;
+			border: 2px solid #4CAF50;
+		}
+
+td a {display: block; color: black;text-align: center;padding: 5px 10px; text-decoration: none;}
+td a:hover { background-color: green;}
+
+td a {
+	border: 0px solid #e7e7e7; background-color: red;
+	td a color: white;
+}
+.{
+	padding: 0;
+	margin: 0;
+	text-decoration: none;
+	list-style: none;
+	box-sizing: border-box;
+	}
+	
